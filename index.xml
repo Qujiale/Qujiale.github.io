@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>my new hugo site</title>
+    <link>https://Qujiale.github.io/</link>
+    <description>Recent content on my new hugo site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://Qujiale.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://Qujiale.github.io/about/</link>
+      <pubDate>Thu, 30 Jun 2022 00:27:54 +0800</pubDate>
+      
+      <guid>https://Qujiale.github.io/about/</guid>
+      <description>This is my first blog test. 在搭建博客的过程中，我遇到了很多困难。刚开始，主要是对这些新接触的概念和事物很陌生，从心理上心生畏惧，于是这条路从精神层面上就走的不顺利。 再就是搭建博客的方法和路径挺多的，虽然总的来说大同小异，不过对刚接触的我来讲，就显得有些眼花缭乱。我最大的失误在于没有按照同一个方法坚持走下 去，而是在这个途径走不通的情况下又走另外的途径，导致整个过程很乱，最后投入了大量时间还失败了。辛亏老师上传了资料在课堂派，我几乎将所有的资料 都看过了，终于成功搭建自己人生中第一个博客。</description>
+    </item>
+    
+  </channel>
+</rss>
